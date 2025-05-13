@@ -19,12 +19,7 @@ This project investigates high return rates in a department store's sales data. 
 - **Data Analysis**: Descriptive statistics, geospatial analysis
 
 ## 📊 Visuals
-
-| Return Trends by Region | Top Returned Products |
-|--------------------------|------------------------|
-| ![Map](images/region_return_map.png) | ![Top Products](images/top_returns_bar.png) |
-
-> 📈 View full dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/ramhorsecat90/viz/retail-return-dashboard)
+> 📈 View full dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/kenneth.weeks/viz/Sprint5Project_17387496618850/ProjectStory)
 
 ## 🔍 Key Findings
 - Office Supplies had the highest overall return rate.
