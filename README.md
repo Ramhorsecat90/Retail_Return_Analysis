@@ -19,19 +19,15 @@ This project investigates high return rates in a department store's sales data. 
 - **Data Analysis**: Descriptive statistics, geospatial analysis
 
 ## 📊 Visuals
-> 📈 View full dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/kenneth.weeks/viz/Sprint5Project_17387496618850/ProjectStory)
+> 📈 View full dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/kenneth.weeks/viz/RetailReturnAnalysisDashboard/ProjectStory?publish=yes))
 
 ## 🔍 Key Findings
-- Office Supplies had the highest overall return rate.
+- Technology Category had the highest overall return rate.
+- Machines and Fasteners had the highest return rates for Sub-Categories (Over 30%).
 - The Western region showed a disproportionate return percentage (30% higher).
-- 5 products accounted for over 60% of all returns.
+- 2 products had over a 30% Return Rate.
 
 ## 💡 Recommendations
-- Audit frequently returned SKUs for defects or misleading descriptions.
-- Implement stricter quality checks for Office Supplies.
+- Audit frequently returned items for defects or misleading descriptions.
+- Implement stricter quality checks for Returned Items.
 - Improve regional training for fulfillment in the West.
-
-## 🔄 Future Work
-- Correlate return data with customer satisfaction scores.
-- Predict return probability using logistic regression.
-- Integrate NPS data for enriched insights.
